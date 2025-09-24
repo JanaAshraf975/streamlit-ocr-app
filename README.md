@@ -100,6 +100,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 This project is licensed under the MIT License.
 
 
-⚡ This README is professional and clear — looks good for a **GitHub portfolio project**.  
 
-Do you want me to also generate the `requirements.txt` file so your repo will be 100% re
