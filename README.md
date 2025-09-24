@@ -35,8 +35,7 @@ The app supports multiple languages, basic image preprocessing, and allows users
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/document-scanner-app.git
-   cd document-scanner-app
+   git clone https:https://github.com/JanaAshraf975/streamlit-ocr-app/tree/main
    ```
 2. Install dependencies:
    
