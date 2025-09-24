@@ -22,6 +22,7 @@ The app supports multiple languages, basic image preprocessing, and allows users
 ## 📂 Project Structure
 
 📁 document-scanner-app
+
 ├── app.py # Main Streamlit app
 ├── requirements.txt # Python dependencies
 ├── README.md # Project documentation
@@ -50,8 +51,9 @@ pip install -r requirements.txt
 Windows: Download from Tesseract at UB Mannheim
 
 Linux (Ubuntu/Debian):
-
+```
 sudo apt install tesseract-ocr
+```
 
 macOS:
 
